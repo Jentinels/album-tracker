@@ -1,11 +1,11 @@
 :root {
-  --ink: #1b1a2e;
-  --surface: #27253f;
-  --raised: #34314f;
-  --text: #f2ede4;
-  --muted: #a9a4bd;
-  --label: #f2b84b;
-  --danger: #ff8a7a;
+  --ink: #1f1511;
+  --surface: #2e211b;
+  --raised: #43322a;
+  --text: #f3e9dc;
+  --muted: #b8a595;
+  --label: #d9a066;
+  --danger: #f28b6b;
   --radius: 10px;
   --body: "DM Sans", system-ui, sans-serif;
   --display: "Fraunces", Georgia, serif;
